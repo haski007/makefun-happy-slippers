@@ -40,7 +40,12 @@ Codex as a stand-in judge.
 3. Six refinements of the leaders.
 
 In the last round robin of eleven this picture won nine games and drew one,
-with no loss. It was then resized from 1254 to 1024 pixels a side.
+with no loss. Its mean game score there was 0.680; the runners-up were a
+grandmother on a playground swing with one shoe flying off (0.665) and a
+closer framing of the same kitchen dance (0.595). A game score is the mean of
+its two calls, and a call gives its pick 0.5 plus a tenth of its margin, as in
+the bounty's rules. The picture was then resized from 1254 to 1024 pixels a
+side.
 
 `entry.png` holds JPEG data (quality 93): the rules tell the format by the
 first bytes and keep the name `entry.png` either way.
