@@ -1,4 +1,4 @@
-# ai-happy-01 entry: Dancing on Grandpa's Slippers
+# ai-happy-01 entry: Puddle Jump in Red Boots
 
 Entry for the make.fun bounty "Make the AI judge happy" (`ai-happy-01`).
 
@@ -18,34 +18,34 @@ never exists.
 
 ## The picture
 
-A sunlit kitchen in the morning. A grandfather in a knitted vest dances with
-his small granddaughter, who stands barefoot on top of his checked slippers
-and holds his hands; both are laughing out loud. The family dog has stood up
-on its hind legs to dance with them, and the grandmother sings from the
-doorway into a wooden spoon. An old radio plays on the counter, and pancakes
-sit forgotten on the stove.
+A fluffy yellow duckling in tiny red rain boots, caught in mid-air above a
+puddle it has just jumped in. Its wings are spread wide, its eyes are squeezed
+shut and its beak is wide open in a laugh, and a small crown of water drops
+splashes up under the boots. Glossy 3D render on a plain sky-blue background.
 
 The image was generated with Codex image generation from a text prompt written
-for this bounty (no reference images, no words in the picture; the only marks
-are a few music notes).
+for this bounty (no reference images, no words in the picture).
 
-How it was chosen: 30 candidates over three rounds played pairwise games under
-the bounty's published judge instructions, each pair in both orders, with
-Codex as a stand-in judge.
+How it was chosen: candidates played pairwise games under the bounty's
+published judge instructions, each pair in both orders, with Codex as a
+stand-in judge. A game score is the mean of its two calls, and a call gives its
+pick 0.5 plus a tenth of its margin, as in the bounty's rules.
 
-1. Twelve different ideas (animals, robots, family moments). The moments
-   between a grandparent and a child led.
-2. Twelve variants and new ideas in that direction. The kitchen dance came
-   first.
-3. Six refinements of the leaders.
+The first attempt came from 30 candidates over three rounds and was a busy
+storybook scene: a grandfather dancing in a kitchen with his granddaughter on
+his slippers. The stand-in judge liked it best, but the bounty's real judge
+placed it about 198th of 2000, so the stand-in's taste for such scenes does
+not carry over.
 
-In the last round robin of eleven this picture won nine games and drew one,
-with no loss. Its mean game score there was 0.680; the runners-up were a
-grandmother on a playground swing with one shoe flying off (0.665) and a
-closer framing of the same kitchen dance (0.595). A game score is the mean of
-its two calls, and a call gives its pick 0.5 plus a tenth of its margin, as in
-the bounty's rules. The picture was then resized from 1254 to 1024 pixels a
-side.
+This second attempt changes direction: one joyful subject, close up, with a
+clean background and bright colour. Twelve new candidates (puppies, kittens,
+otters, a quokka, a laughing child, a smiling sunflower and others) played a
+round robin of fourteen with two reference images: the first attempt and a
+picture that did well in a sibling bounty. Among the new candidates this
+picture and a pair of otters holding paws led, each with eleven wins, one draw
+and one loss (mean game scores 0.646 and 0.654), and they drew with each
+other. The duckling was chosen because the otters' joined paws were drawn
+fused. It was then resized from 1254 to 1024 pixels a side.
 
 `entry.png` holds JPEG data (quality 93): the rules tell the format by the
 first bytes and keep the name `entry.png` either way.

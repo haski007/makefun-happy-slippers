@@ -4,9 +4,8 @@ Writes one image to <output dir>/entry.png: the picture stored next to this
 file, copied byte for byte. Standard library only, no network, no clock and
 no randomness, so every run writes the same bytes.
 
-The picture: a grandfather dancing in a sunny kitchen with his granddaughter,
-who stands on his slippers, while the dog dances along on its hind legs and
-the grandmother sings into a wooden spoon.
+The picture: a fluffy yellow duckling in tiny red rain boots, in mid-air above
+the puddle it has just jumped in, wings wide and beak open in a laugh.
 
 The output directory is /output, or $MAKEFUN_OUTPUT_DIR when that is set.
 Exit code 0 on success, 1 when the stored picture breaks the bounty's limits.
